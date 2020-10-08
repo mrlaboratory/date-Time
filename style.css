@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+body{
+background:#255378;
+min-height: 100vh;
+justify-content: center;
+align-items: center;
+display: flex;
+
+}
+h1.time {
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+}
+p.date {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+}
